@@ -1,0 +1,26 @@
+{
+  "name": "react-challenge-liuv",
+  "version": "1.0.0",
+  "description": "Solução para desafio React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekgomes/react-challenge.git"
+  },
+  "keywords": [
+    "React",
+    "challenge",
+    "liuv",
+    "react",
+    "challenge"
+  ],
+  "author": "Lucas Álek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekgomes/react-challenge/issues"
+  },
+  "homepage": "https://github.com/alekgomes/react-challenge#readme"
+}
