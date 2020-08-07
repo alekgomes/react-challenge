@@ -5,7 +5,8 @@
   }
   main {
     background: url('./assets/images/back_frame1.png');
-    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 2rem 0;
     font-family: 'Roboto', sans-serif; 
   }
